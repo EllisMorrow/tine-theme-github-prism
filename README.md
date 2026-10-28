@@ -15,6 +15,8 @@
 
 GitHub Light Default and Dark Default meet in one Tine theme, pairing familiar clear pages and deep charcoal surfaces with measured blue accents.
 
+Explore the full [Prism theme gallery](https://github.com/martinkoutecky/tine/discussions/786) to compare all 29 themes in light and dark modes.
+
 ### Dark mode
 
 ![GitHub · Prism in Tine dark mode](docs/github-dark.png)

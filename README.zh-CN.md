@@ -8,6 +8,8 @@
 
 GitHub Light Default 与 Dark Default 合为一款 Tine 主题，以熟悉的清朗页面和深炭底色，衬出克制的蓝色强调。
 
+在 [Prism 主题画廊](https://github.com/martinkoutecky/tine/discussions/786)中，可以直观比较全部 29 个主题的浅色与深色效果。
+
 ### 深色模式
 
 ![GitHub · Prism 深色模式实拍](docs/github-dark.png)
